@@ -1,2 +1,4 @@
 #Use Python to measure broadband speed, analyze network performance, and visualize trends.
+#1. Install required libraries in Google Colab:
+!pip install speedtest-cli pandas matplotlib
 
